@@ -1,0 +1,6 @@
+c:\users\mak\documents\visual studio 2017\Projects\Val_ADO.Net\Val_ADO.Net\bin\Debug\Val_ADO.Net.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\Val_ADO.Net\Val_ADO.Net\bin\Debug\Val_ADO.Net.exe
+c:\users\mak\documents\visual studio 2017\Projects\Val_ADO.Net\Val_ADO.Net\bin\Debug\Val_ADO.Net.pdb
+c:\users\mak\documents\visual studio 2017\Projects\Val_ADO.Net\Val_ADO.Net\obj\Debug\Val_ADO.Net.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\Val_ADO.Net\Val_ADO.Net\obj\Debug\Val_ADO.Net.exe
+c:\users\mak\documents\visual studio 2017\Projects\Val_ADO.Net\Val_ADO.Net\obj\Debug\Val_ADO.Net.pdb
